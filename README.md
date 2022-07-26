@@ -4,7 +4,7 @@
 <br>
 [![Telegram](https://img.shields.io/badge/-Телеграм-CCCCFF?style=for-the-badge&logo=telegram)](https://t.me/viskhan)
 [![Vkontakte](https://img.shields.io/badge/-Вконтакте-CCCCFF?style=for-the-badge&logo=vk&logoColor=4f7bd3)](https://vk.com/id152397146)
-[![Instagram](https://img.shields.io/badge/-Инстаграм-CCCCFF?style=for-the-badge&logo=instagram)](https://vk.com/id152397146)
+[![Instagram](https://img.shields.io/badge/-Инстаграм-CCCCFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/vis_han/)
 
 Мои проекты:
 
