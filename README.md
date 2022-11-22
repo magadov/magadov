@@ -35,8 +35,3 @@
 <br>
 <br>
 
-
-Мои проекты:
-
-- <a style="text-decoration:none" href="https://github.com/magadov/detailing-front">Detailing Car</a> - Проект предназначен для ведения учета деятельности автосервиса (какие услуги оказывались, кому и когда, расход/приход материала, учёт расходов)
-- <a style="text-decoration:none" href="https://github.com/magadov/team_project_lawyers_front">Lawyers Project</a> - Данный проект предназначен как для юристов, которые могут зарегистрироваться, указав весь спектр оказываемых ими услуг, так и для обычных пользователей, которые ищут юристов для оказания тех или иных услуг.
